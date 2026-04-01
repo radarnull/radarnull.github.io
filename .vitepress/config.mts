@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: 'radarnull.github.io',
   title: "radar's blog",
   description: "a human's words",
   themeConfig: {
